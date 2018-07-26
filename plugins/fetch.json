@@ -1,0 +1,14 @@
+{
+  "cordova-plugin-ionic": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-ionic@^5.0.2"
+    },
+    "is_top_level": true,
+    "variables": {
+      "APP_ID": "8b3e371c",
+      "CHANNEL_NAME": "Master",
+      "UPDATE_METHOD": "background"
+    }
+  }
+}
